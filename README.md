@@ -1,4 +1,4 @@
-```markdown
+
 # Ping Pong Game
 
 This is a simple Ping Pong game implemented in Python using the Turtle module. The game allows two players to control paddles and score points by bouncing a ball across the screen.
@@ -11,13 +11,14 @@ This is a simple Ping Pong game implemented in Python using the Turtle module. T
 - **Ball Physics**: Ball speed increases with each bounce, making the game more challenging.
 
 ## Screenshots
-![Ping Pong Game Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/5de00de3-e2e1-4dfe-a3fc-c04f56fd07ce)
+
 
 ## How to Play
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ping-pong-game.git
+   git clone https://github.com/Darkknight1213/ping-pong-game.git
    ```
 2. Run the `main.py` file:
    ```bash
